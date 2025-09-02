@@ -12,7 +12,6 @@ import Topbar from "@/components/Topbar";
 const Principal = () => {
   return (
     <main className="w-full max-w-[1140px] mx-auto overflow-hidden bg-white">
-      Principal
       <Topbar />
       <Header />
       <Hero />
