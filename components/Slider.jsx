@@ -102,7 +102,9 @@ const Slider = () => {
                   <h6 className="font-semibold text-primary mb-1">{name}</h6>
                   <p>{description}</p>
                 </div>
-                <p className="font-semibold text-accent2">{price}</p>
+                <p className="font-semibold text-accent2">
+                  {price} <span className="text-primary">$</span>
+                </p>
               </div>
             </SwiperSlide>
           );
