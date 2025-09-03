@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Hero = () => {
-  return (
-    <div>Hero</div>
-  )
-}
+  return <section className="bg-[#f6f6f6] xl:h-[1064px]">Hero</section>;
+};
 
-export default Hero
+export default Hero;
