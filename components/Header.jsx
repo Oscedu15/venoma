@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <header
       className="mx-auto xl:absolute max-w-[1440px] left-0
-    right-0"
+    right-0 bg-gray-50"
     >
       <div className="container mx-auto">
         <div className="flex justify-between items-center py-10">

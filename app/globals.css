@@ -53,7 +53,7 @@ a.link-secondary {
 }
 
 .h1 {
-  @apply text-8xl md:text-[200px] uppercase leading-[80px];
+  @apply text-8xl md:text-[200px] uppercase leading-[80%];
 }
 
 .h2 {
