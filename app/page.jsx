@@ -23,7 +23,7 @@ const Principal = () => {
       <Footer />
       <Copyright />
       {/* temporary div */}
-      <div className="h-[4000px]"></div>
+      <div className="h-[4000px]"></div>      
     </main>
   );
 };
