@@ -84,6 +84,10 @@ a.link-secondary {
   @apply bg-accent hover:bg-accent-hover transition-all duration-300;
 }
 
+.btn-primary {
+  @apply bg-primary hover:bg-primary/90 text-white transition-all duration-300;
+}
+
 .btn-icon {
   @apply w-[52px] h-[52px] flex items-center justify-center cursor-pointer;
 }
